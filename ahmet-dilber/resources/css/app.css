@@ -843,7 +843,7 @@ section#gallery .btn-cta:after {
 
 /* landing blog */
 section#blog {
-    height: 41.25rem;
+    /* height: 41.25rem; */
     display: flex;
     width: 100vw;
     background-color: #02282B;
